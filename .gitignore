@@ -1,0 +1,20 @@
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# XAMPP specific
+htdocs/*/
+!htdocs/xampp-apps-dashboard-repo/
+.dist/
+dashboard/
+webalizer/
+xampp/
