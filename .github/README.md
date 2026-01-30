@@ -10,6 +10,10 @@ Central hub for accessing all your local XAMPP projects with a beautiful, respon
 ⚡ **Quick Access** - One-click launch to any of your applications  
 🔄 **Non-Destructive** - Preserves all existing projects and default XAMPP files  
 
+## Preview
+
+![Local Apps Dashboard](dashboard.JPG)
+
 ## Installation
 
 ### Quick Setup (Easiest Method)
